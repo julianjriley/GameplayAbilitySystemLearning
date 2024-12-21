@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32019F-91B6-3BE7-A644-F462620E5504}|Intermediate\\ProjectFiles\\Aura.vcxproj|C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC32019F-91B6-3BE7-A644-F462620E5504}|Intermediate\\ProjectFiles\\Aura.vcxproj|solutionrelative:Source\\Aura\\Private\\AuraCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32019F-91B6-3BE7-A644-F462620E5504}|Intermediate\\ProjectFiles\\Aura.vcxproj|C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC32019F-91B6-3BE7-A644-F462620E5504}|Intermediate\\ProjectFiles\\Aura.vcxproj|solutionrelative:Source\\Aura\\Public\\AuraCharacterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuraCharacterBase.cpp",
+              "DocumentMoniker": "C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp",
+              "RelativeDocumentMoniker": "Source\\Aura\\Private\\AuraCharacterBase.cpp",
+              "ToolTip": "C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp",
+              "RelativeToolTip": "Source\\Aura\\Private\\AuraCharacterBase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T22:13:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuraCharacterBase.h",
+              "DocumentMoniker": "C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h",
+              "RelativeDocumentMoniker": "Source\\Aura\\Public\\AuraCharacterBase.h",
+              "ToolTip": "C:\\Users\\02enz\\Documents\\Unreal Projects\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h",
+              "RelativeToolTip": "Source\\Aura\\Public\\AuraCharacterBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-21T22:13:30.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

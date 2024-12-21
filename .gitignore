@@ -12,3 +12,5 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.ipch
+*.pch
